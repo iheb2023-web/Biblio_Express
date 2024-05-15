@@ -1,0 +1,174 @@
+[33mcommit 2ee51afadd47b65f3694eea8d8b28c557b6966b6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: iheb-2023-web <deruichiheb3@gmail.com>
+Date:   Wed May 15 23:08:47 2024 +0100
+
+    projet express.js
+
+[33mcommit 63c4cf5fced2655a5c69d8366ff77f7c3ccd10ea[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Wed Jul 11 15:05:39 2018 +0600
+
+    customer report done
+
+[33mcommit 1f26b2651d7a5d8de9450aadb2c0190c8a93af52[m
+Author: AbrarZShahriar <a.zshahriar@gmail.com>
+Date:   Wed Jul 11 11:05:42 2018 +0600
+
+    Customer history -Abrar
+
+[33mcommit 505d7624354a8754e32f2d7f06cb4226444b73fc[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Wed Jul 11 03:08:42 2018 +0600
+
+    database updated
+
+[33mcommit 1e6a09dea304c2352f8a5df3580d48812150e1c5[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Wed Jul 11 03:06:18 2018 +0600
+
+    some bug fixes and session destroy done
+
+[33mcommit f0588a07aaf2f3dc580176807703ef27509ba9de[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Wed Jul 11 00:20:10 2018 +0600
+
+    admin reports complete
+
+[33mcommit 5dfd9be9d510af1cd7839b5a48ba8c1fc8e77504[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Tue Jul 10 22:13:15 2018 +0600
+
+    report format done
+
+[33mcommit 2dd774ed8e86397d27519c47ccff0bde04137591[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Tue Jul 10 18:51:41 2018 +0600
+
+    limit per customer to issue 3 books
+
+[33mcommit 8683831175dbd0cc38872a2222758e9d679195ad[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Tue Jul 10 04:11:00 2018 +0600
+
+    date related issues fixed and database modified
+
+[33mcommit 253f15d56d4bf34e8a5e00590cc6e98ef563e3fe[m
+Author: AbrarZShahriar <a.zshahriar@gmail.com>
+Date:   Mon Jul 9 16:20:51 2018 +0600
+
+     user borrowed add, check user model, had to call from book -Abrar
+
+[33mcommit ef1a1fc6edeb01b1f7f5efa11123ff30a001e9dd[m
+Author: AbrarZShahriar <a.zshahriar@gmail.com>
+Date:   Mon Jul 9 14:56:32 2018 +0600
+
+    books ejs css fix
+
+[33mcommit 4d049f569496a896c0de8ff84c5823263e78aa1d[m
+Merge: 4d11782 2da884f
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Sun Jul 8 23:33:06 2018 +0600
+
+    book uninssuing done
+
+[33mcommit 4d11782f86a7ede3442977b349345e1d71f2cd89[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Sun Jul 8 23:23:59 2018 +0600
+
+    Admin book unissuing done
+
+[33mcommit 2da884f33d7ca6c159a2e334d5d673da4bf45d10[m
+Author: AbrarZShahriar <a.zshahriar@gmail.com>
+Date:   Sun Jul 8 22:46:08 2018 +0600
+
+    Customer controller add -Abrar
+
+[33mcommit d93a87fe6cce93d9472f4aa34c9d7b1201630533[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Sun Jul 8 19:15:32 2018 +0600
+
+    Issuing book done
+
+[33mcommit 816642a3bc0c3477cd98c9308eb4d1f105d628c4[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Sun Jul 8 15:55:59 2018 +0600
+
+    Books deletion and customer deletion added
+
+[33mcommit 0e3994657a1806a2327550fbc3a9d9050bf6840f[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Sat Jul 7 19:54:46 2018 +0600
+
+    database updated
+
+[33mcommit 5283a130dbeffea3f783b3cd9bccb48136ad9762[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Sat Jul 7 19:52:58 2018 +0600
+
+    More admin routes completed
+
+[33mcommit 0f221ac2f393168956760f08a20042e4f796f5ce[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Sat Jul 7 04:55:00 2018 +0600
+
+    ideaaagit add . :D
+
+[33mcommit 16b6b67e74855a0fa6f1db37963a03fc046ed27a[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Sat Jul 7 04:45:30 2018 +0600
+
+    More admin routes done
+
+[33mcommit bf0a73ac1a741216fb58f07bb2b696f1f272285b[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Fri Jul 6 23:52:50 2018 +0600
+
+    Admin session, profile and change password done
+
+[33mcommit 54bdcd35621084733c98c5a7804732c310b8c14b[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Fri Jul 6 17:24:28 2018 +0600
+
+    Login and Signup module finished
+
+[33mcommit bd030f1bcd215cc6c4c2a27e73ea2e75ebaf5e19[m
+Author: AbrarZShahriar <a.zshahriar@gmail.com>
+Date:   Thu Jul 5 23:17:47 2018 +0600
+
+    controllers created
+
+[33mcommit a62545fe70a81eeff9ef974bc3b6fed5b805d8a1[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Thu Jul 5 16:29:17 2018 +0600
+
+    database created
+
+[33mcommit 6d28ff9ade7c5119452af2c4ebc76e77c2275c85[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Wed Jul 4 03:49:06 2018 +0600
+
+    customer module done
+
+[33mcommit e8ec0eed4a9535f451b583e76f4a45a87bfe8b70[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Tue Jul 3 00:33:02 2018 +0600
+
+    Customer module started
+
+[33mcommit 38a79b8b09a429900433f28abf5cbb2796d03010[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Mon Jul 2 02:16:55 2018 +0600
+
+    Admin pages almost done
+
+[33mcommit 50a2bf5f1f3592a5d088a645adaf7fe9f560c9cc[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Sat Jun 30 16:59:21 2018 +0600
+
+    Admin Home page design done
+
+[33mcommit 9da127aeccb88b9e3967f7e7a80cf45bad98b8cb[m
+Author: Arefin <rafin.ryan.07@outlook.com>
+Date:   Fri Jun 29 03:28:24 2018 +0600
+
+    Initial commit
