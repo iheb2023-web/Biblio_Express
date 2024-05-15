@@ -12,7 +12,7 @@ module.exports = {
             },
             phone: {
                 required: true,
-                len: 11,
+                len: 8,
                 message: 'Invalid Phone'
             },
             password: {
